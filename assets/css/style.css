@@ -15,9 +15,9 @@ h1 {
 }
 
 p {
-    font-size: 4vw;
+    font-size: 2vw;
     letter-spacing: 2px;
-    line-height: 5vw;
+    line-height: 3vw;
     margin: 2vh auto;
     background-color: rgba(211, 75, 30, 0.404);
     border-radius: 20px;
@@ -29,6 +29,7 @@ iframe {
 }
 
 #below {
-    font-size: 3vw; 
+    font-size: 1vw; 
+    line-height: 2vw;
     font-family: sans-serif;
 }
