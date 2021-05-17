@@ -2,21 +2,33 @@
 
 html {
     background: url('../images/pexels-aistė-sveikataitė-1535421.jpg') no-repeat;
-    background-size: cover;
+    background-size: auto;
+    font-family: 'Original Surfer', cursive;
     text-align: center;
 }
 
 h1 {
-    font-family: 'Original Surfer', cursive;
-    font-size: 100px;
+    font-size: 6vw;
     font-weight: 700px;
-    letter-spacing: 10px;
+    letter-spacing: 5px;
+    margin: 2vh auto;
 }
 
-body > p {
-    font-family: 'Original Surfer', cursive;
-    font-size: 20px;
-    font-weight: 400px;
-    letter-spacing: 5px;
-    line-height: 60px;
+p {
+    font-size: 4vw;
+    letter-spacing: 2px;
+    line-height: 5vw;
+    margin: 2vh auto;
+    background-color: rgba(211, 75, 30, 0.404);
+    border-radius: 20px;
+}
+
+iframe {
+    max-width: 95%;
+    margin: 5vh auto;
+}
+
+#below {
+    font-size: 3vw; 
+    font-family: sans-serif;
 }
