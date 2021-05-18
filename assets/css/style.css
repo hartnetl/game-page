@@ -8,28 +8,30 @@ html {
 }
 
 h1 {
-    font-size: 6vw;
+    font-size: 4vw;
     font-weight: 700px;
     letter-spacing: 5px;
     margin: 2vh auto;
 }
 
 p {
-    font-size: 2vw;
-    letter-spacing: 2px;
-    line-height: 3vw;
+    font-size: 1.5vw;
     margin: 2vh auto;
-    background-color: rgba(211, 75, 30, 0.404);
+    background-color: rgba(228, 160, 57, 0.7);
     border-radius: 20px;
+    width: 70vw;
 }
 
 iframe {
     max-width: 95%;
+    height: 60vh;
+    width: 50vw;
     margin: 5vh auto;
 }
 
 #below {
-    font-size: 1vw; 
-    line-height: 2vw;
+    font-size: 1.5vw; 
     font-family: sans-serif;
+    background-color: rgba(228, 160, 57, 0.7);
+    margin: 0 auto;
 }
